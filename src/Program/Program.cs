@@ -17,4 +17,8 @@ public class Multiplication
     {
         return a * b;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 79801f4b076139ec0bd4873ff7235435f64380fc
